@@ -1,0 +1,141 @@
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.exe
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.deps.json
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.runtimeconfig.json
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.runtimeconfig.dev.json
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.pdb
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.AssemblyReference.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.AssemblyInfoInputs.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.AssemblyInfo.cs
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.CoreCompileInputs.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\staticwebassets\genvcaredashboardsAPI.StaticWebAssets.Manifest.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\staticwebassets\genvcaredashboardsAPI.StaticWebAssets.xml
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\genvcaredashboardsAPI.styles.css
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.RazorTargetAssemblyInfo.cache
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.CopyComplete
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.dll
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.pdb
+D:\1212\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Contract\App son technology\NewGenVCareAPIV2\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.genruntimeconfig.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.StaticWebAssets.xml
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.exe
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.deps.json
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.runtimeconfig.json
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.runtimeconfig.dev.json
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\genvcaredashboardsAPI.pdb
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.AssemblyReference.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.AssemblyInfoInputs.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.AssemblyInfo.cs
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.CoreCompileInputs.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\staticwebassets\genvcaredashboardsAPI.StaticWebAssets.Manifest.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.RazorTargetAssemblyInfo.cache
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.csproj.CopyComplete
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.dll
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.pdb
+D:\Arti\Project\AppSon\genvcaredashboardsAPI\genvcaredashboardsAPI\obj\Debug\netcoreapp3.1\genvcaredashboardsAPI.genruntimeconfig.cache
