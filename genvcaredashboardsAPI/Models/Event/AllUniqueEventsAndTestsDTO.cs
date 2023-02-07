@@ -11,12 +11,12 @@ namespace genvcaredashboardsAPI.Models.Event
         public int PatientId { get; set; }
         public int EventId { get; set; }
         public string TestName { get; set; }
-        public string ModalityValue { get; set; }
+        //  public string ModalityValue { get; set; }
         public string TestResults { get; set; }
         public int UserId { get; set; }
-        public DateTime CreatedDate { get; set; }
-        public int CreatedBy { get; set; }
-        public DateTime ModifiedDate { get; set; }
-        public int ModifiedBy { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public string CreatedBy { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+        public string ModifiedBy { get; set; }
     }
 }
